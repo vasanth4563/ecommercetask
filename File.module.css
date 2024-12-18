@@ -1,0 +1,923 @@
+
+.Mar{
+   background-color: beige;
+   height: 40px;
+   
+}
+
+.Mar1{
+  position: relative;
+  bottom: 15px;
+}
+
+body{
+  background-color: rgb(244, 236, 236);
+  overflow-x:hidden;
+}
+
+  
+.one{
+  background-color: rgb(244, 236, 236);
+  margin-top: 0px;
+  position: relative;
+  bottom: 9px;
+ 
+}
+
+
+  
+ li{
+    display: inline;
+    text-align: center;
+     padding: 5px 10px;
+     background-color: rgb(234, 229, 229);
+     border-radius: 100px;
+     margin-left: 5px;
+     text-decoration: none;
+     
+     
+  }
+
+  
+  
+ 
+  input{
+    text-align: center;
+    margin-left: 360px;
+    border-radius: 5px;
+    width: 250px;
+    height: 36px;
+    background-color: rgb(244, 236, 236);
+  }
+
+  
+
+ 
+
+  #a{
+     
+    margin-left: 450px;
+    margin-top: 0px;
+    
+  }
+
+  .four{
+    text-align: center;
+    color: rgb(68, 68, 68);
+    margin-top: 50px;
+    background-color: rgb(226, 217, 217);
+    margin-left: 400px;
+    margin-right: 400px;
+    margin-bottom: 25px;
+    margin-top: 25px;
+    padding: 10px;
+    border-color: rgb(255, 255, 255);
+    border: solid;
+    border: 5px;
+    border-radius: 20px;
+  }
+
+.five{
+  text-align:center;
+  margin-top: 50px;
+}
+
+.th{
+  display:flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  background-color: rgb(255, 255, 255);
+  margin: 3px;
+ 
+
+  
+}
+
+.d{
+  padding: 35px;
+  margin: 2px;
+  margin-top: 30px;
+  margin-left: 5px;
+  margin-bottom: 30px;
+  cursor: pointer;
+  
+
+}
+
+.d:hover{
+  background-color: rgb(210, 210, 210) ;
+}
+
+
+
+hr{
+   border: solid;
+   border-width: 2px;
+   border-color: rgb(0, 0, 0);
+   margin-left: 20px;
+   margin-right: 20px;
+
+}
+
+
+
+.M{
+  background-color: rgb(247, 247, 246);
+  margin: 20px;
+  margin-left: 20px;
+  border: solid;
+  border-color: beige;
+  border-width: 3px;
+}
+
+
+
+.add{
+  background-color: rgb(100, 100, 100); 
+  color: rgb(255, 255, 255);
+  border: solid;
+  border-width: 20px;
+  border-color: rgb(100, 100, 100);
+  }
+
+  .add1{
+    position: relative;
+    left: 300px;
+  }
+
+  .add2{
+    position:relative;
+    left: 550px;
+    bottom:220px;
+  }
+  
+  .add3{
+   position: relative;
+   left: 850px;
+   bottom: 440px;
+  }
+
+  .add4{
+    position: relative;
+    left: 1100px;
+    bottom: 664px;
+  }
+
+  button{
+  border: solid;
+  border-radius: 5px;
+  padding: 5px;
+  background-color: rgb(255, 255, 255);
+  
+}
+
+.button:hover{
+  background-color: rgb(215, 215, 210);
+}
+
+.A{
+  background-color: rgb(255, 255, 252);
+  border: solid;
+  border-width: 2px;
+  border-color: rgb(222, 222, 124);
+  margin: 35px;  
+}
+
+/* BOOKS.CSS------------------------------------------------------------------------------------ */
+
+
+
+.B{
+  border: solid;
+  border-color: black;
+  border:5px;
+  display: block;
+  position: relative;
+  top: 10px;
+  left: 250px;
+  bottom: 300px;
+
+}
+
+.C{
+  position: relative;
+  left: 300px;
+  top: 26px;
+}
+
+.E{
+  position: relative;
+  left: 100px;
+  bottom:20px;
+}
+
+.G{
+  width: 300px;
+  position: relative;
+  left: 600px;
+}
+
+.F2{
+margin-top: 120px;
+}
+
+.F{
+  background-color: rgb(100, 100, 100);
+  color: white;
+  text-align: center;
+  position: relative;
+  right: 250px;
+
+  
+}
+
+.F1{
+  position: relative;
+  top: 10px;
+}
+
+.H{
+  position:relative;
+  font-size: medium;
+  right: 500px;
+  padding: 20px;
+  ;
+}
+ .I{
+   position: relative;
+   bottom: 185px; 
+   right: 200px;
+ }
+
+ .J{
+  position: relative;
+  bottom: 332px; 
+  left: 100px;
+ }
+
+ .K{
+    position: relative;
+    bottom: 479px;
+    left: 400px;
+ }
+
+ .H1{
+  position: relative;
+  border-top: 1px solid rgb(231, 231, 231);
+  bottom: 450px;
+  
+ }
+
+ .L{
+   display: flex;
+   flex-direction: row;
+   flex-wrap: wrap;
+   position: relative;
+   left: 50px;
+   top: 70px;
+   
+   
+ }
+
+ .L1{
+
+   margin-right: 20px;
+   margin-left: 10px;
+
+ }
+
+  .L2{
+    margin-left: 20px;
+  }
+
+ .M{
+  display: flex;
+  flex-direction: row;
+  margin: 20px;
+   position: relative;
+   bottom: 490px;
+   background-color: rgb(100, 100, 100);
+   border: solid;
+   border-color: rgb(100, 100, 100) ;
+   text-decoration: none;
+ }
+
+ .M1{
+  width: 400px;
+  height: 40px;
+  background-color: white;
+  font-size: large;
+ }
+
+ .M2{
+  width: 400px;
+  height: 40px;
+  background-color: white;
+  font-size: large;
+ }
+
+ .M3{
+  width: 400px;
+  height: 40px;
+  background-color: white;
+  font-size: large;
+ }
+
+ .M4{
+  width: 400px;
+  height: 40px;
+  background-color: white;
+  font-size: large;
+ }
+
+ /* ---------------------------------------------Buyed---------------------------------------- */
+
+  .H1{
+    
+    background-color: azure;
+    margin-right: 1010px;
+    padding-left: 20px;
+    padding-bottom: 10px;
+    position: relative;
+    bottom: 650px;
+    right: 225px;
+
+   
+  }
+
+  .H1:hover{
+    background-color: rgb(188, 188, 188);
+  }
+
+  .H2{
+    color: rgb(39, 38, 38);
+  }
+
+  .H3{
+  
+   position:relative;
+   right: 20px;
+   bottom: 5px;
+   margin-right: 220px;
+ 
+  }
+
+
+ .in{
+  
+   position: relative;
+   top: 100px;
+   left: 290px;
+
+ }
+
+ 
+
+
+.in1{
+  position: relative;
+  right:35px;
+  left:195px;
+  top: 385px;
+  
+ 
+}
+
+.in2{
+  position: relative;
+  left: 460px;
+  top: 345px;
+  
+}
+
+.in3{
+  position: relative;
+  left: 195px;
+  top: 350px;
+  
+  
+
+}
+
+.in4{
+  position: relative;
+  left: 460px;
+  top: 310px;
+}
+
+.in5{
+  position: relative;
+  left: 460px;
+  top: 315px;
+  
+}
+
+.in6{
+  position: relative;
+  left: 195px;
+  top: 275px;
+ 
+}
+
+.in7{
+  position: relative;
+  left: 195px;
+  top: 280px;
+}
+
+.in8{
+  position: relative;
+  left: 460px;
+  top: 240px;
+  
+}
+
+.in9{
+  position: relative;
+  left: 785px;
+  top: 250px;
+ 
+  
+
+}
+
+.in10{
+   width: 500px;
+   position: relative;
+   right: 1130px;
+   bottom: 1130px;
+   padding: 100px;
+}
+
+.in11{
+  position: relative;
+  left: 560px;
+  top: 390px;
+  
+}
+
+
+.N3{
+  display: flex;
+  flex-direction: row;
+  margin: 50px;
+  padding: 10px;
+  position:relative;
+  top:360px;
+  right: 400px;
+
+ 
+ 
+}
+
+.N4{
+  position: relative;
+  right: 330px;
+  bottom: 1600px;
+}
+
+.N5{
+  position:relative;
+  right: 250px;
+  bottom: 1600px;
+}
+
+.N6{
+  position:relative;
+  right: 170PX;
+  bottom: 1600px;
+}
+
+ 
+  /* --------------------------------------------Press----------------------------------------- */
+  
+  
+ 
+  .one1{
+  position: relative;
+  bottom:37px;
+  left: 1420px;
+ }
+   
+
+  .Press{
+    
+  text-align: left;
+   display: flex;  flex-direction: column;
+   margin: 50px;
+   margin-right: 730px;
+   margin-bottom: 900px;
+   padding: 213px;
+   border-radius: 25px;
+   position: relative;
+   bottom: 175px;
+   right:220px ;
+}
+
+.Press1{
+  position:relative;
+  left: 45px;
+}
+
+.Press2{
+  margin-right: 1800px;
+  color: rgb(0, 0, 0);
+  position:relative;
+ 
+}
+
+.Press02{
+  position: relative;
+ 
+}
+
+.Press002{
+  position: relative;
+ bottom:40px;
+  left: 80px;
+}
+
+.Press3{
+  position: relative;
+  bottom: 37px;
+  left: 80px;
+  color:black;
+
+}
+
+.Press0040{
+  color: green;
+}
+
+
+.Press00004{
+  color: green;
+}
+
+.Press0004{
+  color: green;
+  position: relative;
+  
+}
+
+.Press004{
+  position: relative;
+  top:30px;
+}
+
+
+.Press5{
+  position: relative;
+  bottom:10px;
+  color: black;
+
+}
+ 
+.Press21{
+  position:relative;
+  left: 390px;
+  bottom: 825px;
+ 
+  
+}
+
+.Press22{
+  position:relative;
+  left: 820px;
+  bottom: 2880px;
+ 
+  
+}
+
+.Press23{
+  position:relative;
+  left: 1160px;
+  bottom: 3725px;
+ }
+
+ .press231{
+  position:relative;
+  left: 1160px;
+  bottom: 3810px;
+ }
+ 
+ .Press04{
+  position: relative;
+  bottom: 18px;
+ }
+
+ .Press6{
+  position: relative;
+  top: 75px;
+ }
+ .Press03{
+  position:relative;
+  top:85px;
+ }
+
+ .Press003{
+  position:relative;
+  top:45px;
+  left:80px;
+ }
+
+ .Press030{
+  position: relative;
+  
+ }
+
+ .Press004{
+  color:green;
+  position:relative;
+  top: 80px;
+ }
+ .Press7{
+  position: relative;
+  bottom: 3700px;
+ }
+
+ .press10{
+  position: relative;
+  bottom: 4640px;
+  left: 50px;
+ }
+
+ .comment{
+    position: relative;
+    bottom: 3700px;
+    left: 310px;
+    background-color: beige;
+    padding: 70px;
+    margin-right: 650px;
+    border-radius: 40px;
+    color:rgb(0, 0, 0)
+  
+
+ }
+
+ .comment1{
+  position: relative;
+  top: 30px;
+ }
+
+ .comment2{
+  position:relative;
+  bottom: 40px;
+ }
+
+ .comment3{
+  position:relative;
+  top: 60px;
+ }
+
+ .comment4{
+  position: relative;
+  top: 10px;
+ }
+
+ .comment5{
+  position: relative;
+  right: 310px;
+  bottom: 30px;
+ }
+
+ .comment6{
+  position: relative;
+  bottom: 30px;
+ }
+ 
+ /* --------------------------------------------------My Account ----------------------------------------------------------------------*/
+
+ .My1{
+  background-color: rgb(244, 244, 244);
+  margin-right: 1000px;
+  margin-top: 40px;
+  margin-bottom: 40px;
+  padding: 30px;
+  padding-left:120px;
+  position: relative;
+  left: 490px;
+  bottom:25px;
+  border-radius: 15px;
+ 
+ }
+
+.My3{
+  position: relative;
+  right: 360px;
+}
+
+
+
+.My4{
+  position: relative;
+  top: 10px;
+}
+
+.My5{
+  text-align: left;
+  position: relative;
+  right:360px;
+}
+
+.My6{
+  position: relative;
+  right:360px;
+}
+
+.My7{
+  position: relative;
+  top:18px;
+  right: 20px;
+  
+}
+
+.My8{
+  position: relative;
+  top:10px;
+}
+
+.My1:hover{
+  background-color:rgb(212, 207, 207);
+}
+ 
+.My05{
+  position: relative;
+  top: 15px;
+  right: 20px;
+}
+
+/* ----------------------------------------------------About us-------------------- */
+
+.ab1{
+
+  position: relative;
+  left: 750px;
+  bottom: 350px;
+  background-color: rgb(55, 173, 219);
+  padding: 55px;
+  padding-bottom: 0px;
+  margin-top: 70px;
+  bottom: 450px;
+  border-radius: 160px;
+
+}
+
+.ab1:hover{
+  background-color: rgb(127, 218, 243);
+}
+
+.ab2{
+  position: relative;
+  right: 350px;
+}
+
+.ab3{
+  position: relative;
+  right: 88px;
+  bottom: 41px;
+}
+
+.ab4{
+  position: relative;
+  right: 88px;
+  bottom: 36px;
+}
+
+.ab5{
+  position: relative;
+  right: 350px;
+  bottom: 77px;
+}
+
+.ab6{
+  position: relative;
+  bottom: 70px;
+  left: 10px;
+
+}
+
+.ac1{
+  position: relative;
+  bottom: 500px;
+  padding: 150px;
+}
+
+.ac2{
+  position: relative;
+  bottom: 900px;
+  left: 590px;
+}
+
+.ac3{
+  position: relative;
+  bottom: 1150px;
+  left: 1030px;
+}
+
+.ac4{
+  position: relative;
+  bottom: 1013px;
+  left: 220px;
+
+}
+
+.ac44{
+  color: rgb(109, 109, 109);
+}
+
+.ac5{
+  position: relative;
+  bottom: 1230px;
+  left: 450px;
+}
+
+.ac55{
+  color:rgb(109, 109, 109)
+}
+
+.ac6{
+
+  position: relative;
+  bottom: 1450px;
+  left: 700px;
+}
+
+.ac66{
+  color:rgb(109, 109, 109)
+}
+
+.ad7{
+  position: relative;
+  left: 950px;
+  bottom: 1750px;
+
+} 
+
+
+/* -------------------------------------------------------MainCart -------------------------------*/
+
+.Main{
+  border-radius: 45px;
+  background-color: rgb(227, 208, 208);
+  padding: 50px;
+  position: relative;
+  bottom: 30px;
+  right: 340px;
+  margin-top: 60px;
+  margin-left: 360px;
+  margin-right: 360px;
+  margin-bottom: 20px;
+  text-align: center;
+  color: rgb(87, 87, 87);
+ 
+
+}
+
+.main1{
+  position: relative;
+  left: 840px;
+  bottom: 920px;
+
+  
+
+}
+
+.main2{
+  position: relative;
+  left: 950px;
+  bottom: 900px;
+  color:rgb(89,87,87)
+}
+
+.mn1{
+  position: relative;
+  bottom: 890px;
+  left: 540px;
+}
+
+.mn2{
+  position: relative;
+  bottom: 930px;
+  left: 800px;
+ 
+}
+
+.mn3{
+  position: relative;
+  bottom: 925px;
+  left: 800px;
+}
+
+.mn4{
+  position: relative;
+  bottom: 967px;
+  left: 540px;
+}
+
+.mn5{
+  position: relative;
+  bottom: 960px;
+  left: 900px;
+}
+
